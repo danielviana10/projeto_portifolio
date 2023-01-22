@@ -32,7 +32,7 @@ botaoAbout.addEventListener('click',function(e){
 
 let botaoProjects = document.querySelector('.spanProjects')
 botaoProjects.addEventListener('click',function(e){
-    alert("One minute, please...")
+    alert("Just one second...")
     scroll(0,3000)
     document.getElementById('box7').click();
 })
